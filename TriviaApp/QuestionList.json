@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Who is the best cricketer in the world?",
+      "options": [
+        "A)Sachin Tendulkar",
+        "B)Virat Kohli",
+        "C)Adam Gilchirst",
+        "D)Jacques Kallis"
+      ],
+      "answer_type": "SingleSelection"
+    },
+    {
+      "number": 2,
+      "question": "What are the colors in the Indian flag? Select all:",
+      "options": [
+        "A)White",
+        "B)Yellow",
+        "C)Orange",
+        "D)Green"
+      ],
+      "answer_type": "MultipleSelection"
+    }
+  ]
+}
